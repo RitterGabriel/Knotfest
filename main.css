@@ -4,24 +4,24 @@ body {
     margin: 0 auto;
 }
 
-.menu {
-    margin-left: 15px;
-    display: inline-block;
-    float: left;
-    list-style: none;
-}
-
-.menu-principal {
-    width: 100%;
-    background-color: black;
-    height: 80px;
-}
-
-.palavras ul li {
-    margin-left: 15px;
-    display: inline-block;
-    list-style: none;
-    position: relative;
-    margin-top: 27px;
+.imagem {
     text-align: center;
+}
+
+.texto {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.sobre {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.ingressoimagem {
+    position: relative;
+    margin-top: 20px;
+    right: 600px;
 }
