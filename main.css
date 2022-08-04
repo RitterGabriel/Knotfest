@@ -1,11 +1,18 @@
-.logo {
-    text-align: center;
-}
-
-.cabana {
-    text-align: center;
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
 }
 
 .menu {
+    margin-left: 15px;
     display: inline-block;
+    float: left;
+    list-style: none;
+}
+
+.menu-principal {
+    width: 100%;
+    background-color: black;
+    height: 80px;
 }
