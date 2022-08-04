@@ -16,3 +16,12 @@ body {
     background-color: black;
     height: 80px;
 }
+
+.palavras ul li {
+    margin-left: 15px;
+    display: inline-block;
+    list-style: none;
+    position: relative;
+    margin-top: 27px;
+    text-align: center;
+}
