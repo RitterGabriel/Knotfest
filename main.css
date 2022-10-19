@@ -151,3 +151,18 @@ body {
     margin-top: -45px;
     font-size: 12px;
 }
+
+.ing{
+    font-family: arial;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 60px;
+}
+
+.faixa{
+    background: #1c101e;
+    witdh:100%;
+    height: 6px;
+    margin-top: 60px;
+}
