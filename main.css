@@ -130,3 +130,24 @@ body {
 	#menu input:checked + label:before {content:"\00d7"}
 	#menu input:checked ~ ul {display:block}
 }
+
+.sobre{
+    font-size: 30px;
+    font-family: arial;
+}
+
+.sp{
+    font-family: arial;
+    color: white;
+    text-align: center;
+    margin-top: -25px;
+    font-size: 16px;
+}
+
+.ps{
+    font-family: arial;
+    color: white;
+    text-align: center;
+    margin-top: -45px;
+    font-size: 12px;
+}
