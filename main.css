@@ -166,3 +166,19 @@ body {
     height: 6px;
     margin-top: 60px;
 }
+
+.btn{
+    color: #FFFFFF;
+    font-size:14px;
+    background-color: #0d000e;
+    border: 2px solid #1c101e;
+    padding: 10px 20px;
+    text-transform: uppercase;
+
+}
+
+.btn:hover{
+    color: #FFFFFF;
+    background-color: #1c101e;
+
+}
