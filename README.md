@@ -1,3 +1,3 @@
 <h1>Knotfest</h1>
 
-Site da Knotfest feito por mim e pela Edurda J. Schmidt.
+Site da Knotfest feito apenas com HTML e CSS
