@@ -1,4 +1,4 @@
-<h1>Knotfest</h1>
+<h1>Knotfest   ( remaking )</h1>
 
 Este repositório contém o código-fonte e recursos para o site do festival de música Knotfest.
 
