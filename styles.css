@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background-color: #0d000e;
+  height: 2000px;
 }
 
 ul {
@@ -100,4 +101,10 @@ button:focus ~ ul {
   img {
     width: 0%;
   }
+}
+
+.logoknotfest {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
 }
