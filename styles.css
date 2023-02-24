@@ -56,9 +56,13 @@ button {
   display: none;
 }
 
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
 li:hover,
-h1:hover,
-button:hover {
+.logo:hover {
   cursor: pointer;
   opacity: 0.8;
 }
@@ -106,5 +110,10 @@ button:focus ~ ul {
 .logoknotfest {
   display: flex;
   justify-content: center;
-  margin-top: 80px;
+  margin-top: 100px;
+}
+
+.logoknotfest img {
+  height: 200px;
+  width: 500px;
 }
