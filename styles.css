@@ -115,5 +115,22 @@ button:focus ~ ul {
 
 .logoknotfest img {
   height: 200px;
+  width: 600px;
+}
+
+.imagem2{
+  display: flex;
+  justify-content: center;
+  margin-top: 90px;
+}
+
+.imagem3{
+  display: flex;
+  justify-content: center;
+  margin-top: -470px;
+}
+
+.imagem3 img{
   width: 500px;
+  height: 500px;
 }
