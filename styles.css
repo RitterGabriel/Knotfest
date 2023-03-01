@@ -118,19 +118,55 @@ button:focus ~ ul {
   width: 600px;
 }
 
-.imagem2{
+.imagem2 {
   display: flex;
   justify-content: center;
   margin-top: 90px;
+  width: 100%;
 }
 
-.imagem3{
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.imagem3 {
   display: flex;
   justify-content: center;
   margin-top: -470px;
+  width: 100%;
 }
 
-.imagem3 img{
+.imagem3 img {
   width: 500px;
   height: 500px;
+  max-width: 100%;
+}
+
+@media (max-width: 700px) {
+  .logoknotfest {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .logoknotfest img {
+    height: 100px;
+    width: 300px;
+  }
+
+  .imagem2 {
+    margin-top: 700px;
+    width: 100%;
+  }
+
+  .imagem2 img{
+    width: 400px;
+    height: 600px;
+    margin-top: -650px;
+  }
+
+  .imagem3 {
+    width: 100%;
+    margin-top: -400px;
+  }
 }
