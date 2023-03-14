@@ -36,6 +36,12 @@ ul {
   transition: all 0.5s;
 }
 
+.navbar-top {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
 li {
   padding: 0 20px;
 }
@@ -54,6 +60,7 @@ button {
   right: 10px;
   top: 10px;
   display: none;
+  cursor: pointer;
 }
 
 .logo {
@@ -67,9 +74,17 @@ li:hover,
   opacity: 0.8;
 }
 
-button:focus ~ ul {
+.active-navbar {
   height: 200px;
+  transition: 200ms;
 }
+
+@media (min-width: 700px) {
+  #navbar {
+    height: 20px;
+  }
+}
+
 @media (max-width: 700px) {
   nav,
   ul {
@@ -95,7 +110,6 @@ button:focus ~ ul {
   }
 
   li {
-    background-color: #a328ac;
     margin: 18px;
     padding: 4px;
   }
@@ -157,7 +171,6 @@ img {
   .imagem2 {
     margin-top: 700px;
     width: 100%;
-    padding: 0 10px;
   }
 
   .imagem2 img{
@@ -169,6 +182,5 @@ img {
   .imagem3 {
     width: 100%;
     margin-top: -400px;
-    padding: 0 10px;
   }
 }
