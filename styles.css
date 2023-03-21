@@ -15,6 +15,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   min-height: 80px;
+  min-width: min-content;
 }
 
 h1,
@@ -32,7 +33,7 @@ nav,
 ul {
   display: flex;
   flex-direction: row;
-  overflow: hidden;
+  
   transition: all 0.5s;
 }
 
@@ -41,6 +42,7 @@ ul {
   display: flex;
   align-items: center;
 }
+
 
 li {
   padding: 0 20px;
@@ -83,6 +85,7 @@ li:hover,
   #navbar {
     height: 20px;
   }
+  
 }
 
 @media (max-width: 700px) {
@@ -114,10 +117,14 @@ li:hover,
     padding: 4px;
   }
   h1 {
-    margin: 10px;
+    margin-top: 20px;
   }
   img {
     width: 0%;
+  }
+  ul, navbar{
+    height:20px;
+    overflow: hidden;
   }
 }
 
