@@ -1,22 +1,22 @@
 <h1>Knotfest   ( remaking )</h1>
 
-Este repositório contém o código e recursos para o site do festival de música Knotfest.
+This repository contains code and resources for the Knotfest music festival website.
 
-O Knotfest é um festival de música anual que apresenta algumas das maiores bandas de rock e heavy metal do mundo. O festival foi criado pelo Slipknot, uma das bandas mais populares do gênero.
+Knotfest is an annual music festival that features some of the biggest rock and heavy metal bands in the world. The festival was created by Slipknot, one of the most popular bands in the genre.
 
-O site Knotfest é onde os fãs podem encontrar informações sobre as bandas que tocarão no festival, datas e locais dos shows, ingressos, vídeos e muito mais. 
-<h1>Tecnologias utilizadas</h1>
+The Knotfest website is where fans can find information about bands playing at the festival, show dates and venues, tickets, videos and much more.
 
-O site do Knotfest foi desenvolvido utilizando as seguintes tecnologias:
+<h1>Technologies used</h1>
 
+The Knotfest website was developed using the following technologies:
     HTML5
     CSS3
     
 
-<h1>Como utilizar</h1>
+<h1>How to use</h1>
 
-Para executar o site do Knotfest, basta abrir o arquivo index.html em um navegador da web. 
-Estou trabalhando na responsividade do site.
-<h1>Licença</h1>
+To run the Knotfest website, simply open the index.html file in a web browser.
+I'm working on the responsiveness of the site.
+<h1>License</h1>
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para obter mais informações.
+This project is licensed under the MIT License. See the LICENSE file for more information.
