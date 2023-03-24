@@ -9,6 +9,7 @@ The Knotfest website is where fans can find information about bands playing at t
 <h1>Technologies used</h1>
 
 The Knotfest website was developed using the following technologies:
+
     HTML5
     CSS3
     
