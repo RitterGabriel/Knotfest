@@ -1,7 +1,6 @@
 body {
   margin: 0;
   background-color: #0d000e;
-  height: 2000px;
 }
 
 ul {
@@ -131,7 +130,7 @@ li:hover,
 .logoknotfest {
   display: flex;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: 150px;
 }
 
 .logoknotfest img {
@@ -218,7 +217,7 @@ img {
   color: red;
   padding: 10px;
   justify-content: center;
-  font-size: 20px;
+  font-size: 22px;
   list-style: none;
   display: flex;
 }  
@@ -227,4 +226,10 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.rodape{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
 }
