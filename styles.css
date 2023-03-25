@@ -204,3 +204,13 @@ img {
   justify-content: center;
   text-align: center;
 }
+
+.texto-principal-index {
+  color: #FFFFFF;
+  font-family: arial;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 0 200px;
+  font-size: 18px;
+}
