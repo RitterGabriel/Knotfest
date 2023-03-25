@@ -12,6 +12,7 @@ The Knotfest website was developed using the following technologies:
 
     HTML5
     CSS3
+    JavaScript
     
 
 <h1>How to use</h1>
