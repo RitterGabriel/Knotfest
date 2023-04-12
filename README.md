@@ -1,4 +1,4 @@
-<h1>Knotfest   ( remaking )</h1>
+<h1>Knotfest</h1>
 
 This repository contains code and resources for the Knotfest music festival website.
 
@@ -18,7 +18,7 @@ The Knotfest website was developed using the following technologies:
 <h1>How to use</h1>
 
 To run the Knotfest website, simply open the index.html file in a web browser.
-I'm working on the responsiveness of the site.
+
 <h1>License</h1>
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
